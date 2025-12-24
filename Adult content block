@@ -17,11 +17,6 @@ REQUIREMENTS:
 - Works on Windows 10/11
 #>
 
-
-# =========================================
-# Hardened Hosts + DNS Content Blocking Script
-# =========================================
-
 # -----------------
 # ELEVATION CHECK
 # -----------------
