@@ -26,3 +26,11 @@ This repository contains a **hardened PowerShell script** to block adult content
 
 ```powershell
 .\block-hosts.ps1
+
+Disclaimer
+
+Educational / awareness purposes only
+
+Use responsibly
+
+Modifying system hosts file can interfere with some applications
