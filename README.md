@@ -1,0 +1,1 @@
+# windows-hosts-blocker
