@@ -1,3 +1,23 @@
+<#
+.SYNOPSIS
+Hardened hosts file + Cloudflare Family DNS content blocking script.
+
+.DESCRIPTION
+This PowerShell script:
+- Backs up the hosts file
+- Blocks adult content sites (IPv4 + IPv6)
+- Applies Cloudflare Family DNS (1.1.1.3 / 1.0.0.3)
+- Flushes DNS cache
+- Locks the hosts file to prevent tampering
+
+USE CASE: Educational and awareness purposes only.
+
+REQUIREMENTS:
+- Run PowerShell as Administrator
+- Works on Windows 10/11
+#>
+
+
 # =========================================
 # Hardened Hosts + DNS Content Blocking Script
 # =========================================
